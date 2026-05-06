@@ -1,6 +1,6 @@
 package universidade.prova.teste;
 
-// Importa as classes do pacote principal
+    // importa as classes do pacote principal
 import universidade.prova.ProvaFafifo;
 import universidade.prova.ProvaUCB;
 
